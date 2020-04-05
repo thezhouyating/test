@@ -1,0 +1,32 @@
+#body{
+    width:100%;
+}
+ .main{
+    float:left;
+    width:100%;
+    min-height:30px;
+    background-color: darkgray;
+}
+
+.main-wrap{
+    margin-left:200px;      /*左右190px,中间自动伸缩并与左右保持10个像素的距离*/
+    margin-right:200px;
+    background-color: dimgrey;
+    min-height:30px;
+}
+
+.sub{
+    float:left;
+    width:190px;
+    min-height:30px;
+    background-color: darkkhaki;
+    margin-left:-100%;
+}
+
+.extra{
+    float:left;
+    width:190px;
+    min-height: 30px;
+    background-color: darkseagreen;
+    margin-left: -190px;
+}

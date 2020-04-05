@@ -1,0 +1,13 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+.head{
+    background:url("../test-01/picture/head.png");
+    width:100%;
+    height:50px;
+}
+.head p{
+    text-decoration-color: white;
+    margin:0px;
+}

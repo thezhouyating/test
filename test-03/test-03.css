@@ -1,0 +1,26 @@
+body,html{
+    margin:0px;
+    padding:0px;
+}
+#left-menu{
+    background-color:#cccccc;
+    width:255px;
+    margin:0px;
+    float:left;
+}
+#right-menu{
+    background-color: burlywood;
+    width:100%;
+    height:100px;
+}
+
+.sign{
+    box-sizing: border-box;
+    width:255px;
+    height:114px;
+    padding: 5px;
+}
+
+.sign img{
+    padding-left:10px;
+}
